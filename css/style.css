@@ -32,6 +32,11 @@ section.todo{
     display: inline;
     
 }
+.temp{
+    font-size: 24px; 
+    color: red; 
+    font-weight: 600;
+}
 .todo > form {
     width: 100%; 
     height: 100%; 
